@@ -12,11 +12,11 @@ This project provides custom implementations of essential data structures, each 
 - [X] **Linked List** 
 - [X] **Stack**
 - [X] **Queue**
-- [ ] **Binary Search Tree**
-- [ ] **Hash Table**
+- [X] **Binary Search Tree**
+- [X] **Hash Table**
 - [ ] **Trie**
-- [ ] **Complete Documentation** with XML comments
-- [ ] **Interactive Demo** with practical examples
+- [X] **Complete Documentation** with XML comments
+- [X] **Interactive Demo** with practical examples
 
 ## Project Structure
 
